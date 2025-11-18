@@ -1,7 +1,7 @@
 # KEVIN URIEL
 ## 👤DESCRIPCIÓN👤
 
-Perfil de KevinUrielRR donde se subiran proyectos de software <!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
+Perfil de KevinUrielRR donde se almacenarán proyectos de software <!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
 <!--
 ***Puedes revisar y apoyarte en estos proyectos para resolver tus dudas o usarlos como ejemplo para poder hacer tus propios proyectos***
 -->
@@ -28,6 +28,7 @@ Perfil de KevinUrielRR donde se subiran proyectos de software <!-- multiplatafor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats)
 
 ***NUEVOS PROYECTOS***
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)
 
 
