@@ -1,23 +1,38 @@
-# KEVIN URIEL
-## 👤DESCRIPCIÓN👤
-
----
-title: k
-position: 1
----
-
-Perfil de KevinUrielRR donde se almacenarán proyectos de software <!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
+KEVIN URIEL
+| 👤DESCRIPCIÓN👤 |
+| ------------------ |
+| Perfil de KevinUrielRR donde se almacenarán proyectos de software |
+<!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
 <!--
 ***Puedes revisar y apoyarte en estos proyectos para resolver tus dudas o usarlos como ejemplo para poder hacer tus propios proyectos***
 -->
+<br>
+PERFIL DE USUARIO 
+<!-- |
+| --- | -->
 
-## IMAGEN DE USUARIO
-<img src="v1.png" />
+| IMAGEN DE USUARIO | PORTADA |
+| --- | --- |
+| <img src="v1.png" /> | <img src="banner.png" /> |
 
-## PORTADA
-<img src="banner.png" />
+<br>
+DESARROLLO DE SOFTWARE
 
-### REGISTRO DE ACTIVIDAD
+| LENGUAJES DE PROGRAMACION | FRAMEWORKS |
+| --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) |
+
+
+
+<!--
+| HERRAMIENTAS DE SOFTWARE |
+| --- |
+| [![My Skills](https://skillicons.dev/icons?i=gimp)](https://skillicons.dev) | -->
+<!-- | [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev) | --- | -->
+<!--<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic"></img> |-->
+
+<br>
+REGISTRO DE ACTIVIDAD
 <!--
 [![KevinUrielRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR)](https://github.com/KevinUrielRR/github-readme-stats)
 -->
@@ -30,11 +45,16 @@ Perfil de KevinUrielRR donde se almacenarán proyectos de software <!-- multipla
 <!--
 ![KevinUrielRR GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR&show_icons=true&theme=dark)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats)
+| disminuido | extendido |
+| --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats) |
 
-***NUEVOS PROYECTOS***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple)
+| NUEVOS PROYECTOS |
+| --- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
+
 <!--ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)
 -->
 
