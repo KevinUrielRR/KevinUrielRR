@@ -52,8 +52,11 @@ REGISTRO DE ACTIVIDAD
 
 | NUEVOS PROYECTOS |
 | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
+
+
+<!--
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple) |-->
 
 <!--ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)
 -->
