@@ -1,6 +1,11 @@
 # KEVIN URIEL
 ## 👤DESCRIPCIÓN👤
 
+---
+title: k
+position: 1
+---
+
 Perfil de KevinUrielRR donde se almacenarán proyectos de software <!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
 <!--
 ***Puedes revisar y apoyarte en estos proyectos para resolver tus dudas o usarlos como ejemplo para poder hacer tus propios proyectos***
