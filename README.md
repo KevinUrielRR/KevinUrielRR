@@ -55,15 +55,18 @@ KEVIN URIEL
 | --- | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie)](https://github.com/stats-organization/github-stats-extended) |
 
-# PROYECTOS DESTACADOS
-<!-- | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) | -->
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) |
-| --- |
+<!--# PROYECTOS DESTACADOS
+ | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) |
+
+| --- |-->
 
 # NUEVOS PROYECTOS
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3&theme=dark_github_repocard)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
 | --- |
+<!-- 
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar%2Fgithub-readme-stats&show_owner=true&description_lines_count=3&theme=light_github_repocard)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
+| --- |-->
 
 <!--
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple) |-->
