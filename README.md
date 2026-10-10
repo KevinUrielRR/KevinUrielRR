@@ -1,13 +1,16 @@
 KEVIN URIEL
-| 👤DESCRIPCIÓN👤 |
-| ------------------ |
+# 👤DESCRIPCIÓN👤
+
 | Perfil de KevinUrielRR donde se almacenarán proyectos de software |
+| --- |
 <!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
 <!--
 ***Puedes revisar y apoyarte en estos proyectos para resolver tus dudas o usarlos como ejemplo para poder hacer tus propios proyectos***
 -->
 <br>
-PERFIL DE USUARIO 
+
+# PERFIL DE USUARIO 
+
 <!-- |
 | --- | -->
 
@@ -16,7 +19,8 @@ PERFIL DE USUARIO
 | <img src="v1.png" /> | <img src="banner.png" /> |
 
 <br>
-DESARROLLO DE SOFTWARE
+
+# DESARROLLO DE SOFTWARE
 
 | LENGUAJES DE PROGRAMACION | FRAMEWORKS |
 | --- | --- |
@@ -32,7 +36,9 @@ DESARROLLO DE SOFTWARE
 <!--<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic"></img> |-->
 
 <br>
-REGISTRO DE ACTIVIDAD
+
+# REGISTRO DE ACTIVIDAD
+
 <!--
 [![KevinUrielRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR)](https://github.com/KevinUrielRR/github-readme-stats)
 -->
@@ -45,15 +51,19 @@ REGISTRO DE ACTIVIDAD
 <!--
 ![KevinUrielRR GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR&show_icons=true&theme=dark)
 -->
-| disminuido | extendido |
-| --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats) |
+| barra en disminuido | barra en extendido | circular |
+| --- | --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie)](https://github.com/stats-organization/github-stats-extended) |
 
-
-| NUEVOS PROYECTOS |
+# PROYECTOS DESTACADOS
+<!-- | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) | -->
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) |
 | --- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
 
+# NUEVOS PROYECTOS
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
+| --- |
 
 <!--
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple) |-->
