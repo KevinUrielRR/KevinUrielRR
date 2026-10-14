@@ -22,9 +22,9 @@ KEVIN URIEL
 
 # DESARROLLO DE SOFTWARE
 
-| LENGUAJES DE PROGRAMACION | FRAMEWORKS |
+| PROGRAMACION | FRAMEWORKS |
 | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](httpss://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) |
 
 
 
