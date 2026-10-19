@@ -51,7 +51,7 @@ KEVIN URIEL
 <!--
 ![KevinUrielRR GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR&show_icons=true&theme=dark)
 -->
-| barra en disminuido | separado | circular |
+| disminuido | extendido | circular |
 | --- | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie)](https://github.com/stats-organization/github-stats-extended) |
 
