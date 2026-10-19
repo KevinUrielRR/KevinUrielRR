@@ -24,7 +24,7 @@ KEVIN URIEL
 
 | PROGRAMACION | FRAMEWORKS |
 | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](httpss://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](httpss://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) |
 
 
 
