@@ -69,11 +69,15 @@ KEVIN URIEL
 
 # PROYECTOS
 
-| RECIENTEMENTE SUBIDO | RECIENTEMENTE ACTUALIZADO | FINALIZADOS | CONSTANTE ACTUALIZACION |
-| --- | --- | --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoProgramacionOrientadoObjetosEnCpp&2FProyectoProgramacionOrientadoObjetosEnCpp&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoProgramacionOrientadoObjetosEnCpp) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
+## RECIENTEMENTE
+| SUBIDO | ACTUALIZADO |
+| --- | --- |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoProgramacionOrientadoObjetosEnCpp&2FProyectoProgramacionOrientadoObjetosEnCpp&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoProgramacionOrientadoObjetosEnCpp) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno) |
 
-
+## ACTUALMENTE
+| FINALIZADOS | CONSTANTE ACTUALIZACION |
+| --- | --- |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
 
 <!--
 
