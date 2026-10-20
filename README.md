@@ -68,7 +68,7 @@ KEVIN URIEL
 
 | FINALIZADOS | RECIENTEMENTE ACTUALIZADOS |
 | --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) | N/A |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
 <!-- 
 | [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar%2Fgithub-readme-stats&show_owner=true&description_lines_count=3&theme=light_github_repocard)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
 | --- |-->
