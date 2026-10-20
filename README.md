@@ -21,10 +21,11 @@ KEVIN URIEL
 <br>
 
 # DESARROLLO DE SOFTWARE
+| PROGRAMACION | FRAMEWORKS | HERRAMIENTAS |
+| --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](httpss://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) |
 
-| PROGRAMACION | FRAMEWORKS |
-| --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](httpss://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) |
+
 
 
 
