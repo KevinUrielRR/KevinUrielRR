@@ -39,6 +39,9 @@ KEVIN URIEL
 
 # REGISTRO DE ACTIVIDAD
 
+| disminuido | extendido | circular |
+| --- | --- | --- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact&theme=transparent)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10&theme=transparent)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie&theme=transparent)](https://github.com/stats-organization/github-stats-extended) |
 <!--
 [![KevinUrielRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR)](https://github.com/KevinUrielRR/github-readme-stats)
 -->
@@ -51,9 +54,7 @@ KEVIN URIEL
 <!--
 ![KevinUrielRR GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR&show_icons=true&theme=dark)
 -->
-| disminuido | extendido | circular |
-| --- | --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie)](https://github.com/stats-organization/github-stats-extended) |
+
 
 <!--# PROYECTOS DESTACADOS
  | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) |
@@ -61,23 +62,22 @@ KEVIN URIEL
 | --- |-->
 
 
-
-
-
-
-
-
 # PROYECTOS
+
 
 ## RECIENTEMENTE
 | SUBIDO | ACTUALIZADO |
 | --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoProgramacionOrientadoObjetosEnCpp&2FProyectoProgramacionOrientadoObjetosEnCpp&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoProgramacionOrientadoObjetosEnCpp) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoProgramacionOrientadoObjetosEnCpp&2FProyectoProgramacionOrientadoObjetosEnCpp&show_owner=true&description_lines_count=3&theme=transparent)](https://github.com/KevinUrielRR/ProyectoProgramacionOrientadoObjetosEnCpp) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3&theme=transparent)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno) |
 
 ## ACTUALMENTE
 | FINALIZADOS | CONSTANTE ACTUALIZACION |
 | --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3&theme=transparent)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3&theme=transparent)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
+
+
+
+
 
 <!--
 
