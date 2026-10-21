@@ -1,18 +1,17 @@
 KEVIN URIEL
 # 👤DESCRIPCIÓN👤
 
-| Perfil de KevinUrielRR donde se almacenarán proyectos de software |
+| PERFIL DE KevinUrielRR DONDE SE ALMACENARÁN PROYECTOS DE SOFTWARE |
 | --- |
-<!-- multiplataforma (Movil, Escritorio, Web, Híbrido)--> <!--algunos con base de datos, otros, solo ejemplos completos de lo que se puede llegar a crear y tutoriales con explicacion--> <!--como ejemplo general de lo que se puede llegar a crear, asi mismo, algunos tutoriales eexplicados paso a paso-->
-<!--
-***Puedes revisar y apoyarte en estos proyectos para resolver tus dudas o usarlos como ejemplo para poder hacer tus propios proyectos***
--->
+| DESARROLLADOR BACKEND Y FRONTEND DE SOFTWARE: WEB, MOVILES, ESCRITORIO, HIBRIDAS |
+| TUTORIALES PARA EL APRENDIZAJE Y AYUDA AL DESARROLLO DE SOFTWARE|
+
+*Figura 1.1. Tabla de descripción y propósitos*
+
 <br>
 
 # PERFIL DE USUARIO 
 
-<!-- |
-| --- | -->
 
 | IMAGEN DE USUARIO | PORTADA |
 | --- | --- |
@@ -20,47 +19,33 @@ KEVIN URIEL
 
 <br>
 
-# DESARROLLO DE SOFTWARE
-| PROGRAMACION | FRAMEWORKS | HERRAMIENTAS |
-| --- | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](httpss://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) |
 
 
+## DESARROLLO DE SOFTWARE TECNOLOGIAS
+| PROGRAMACION | FRAMEWORKS | HERRAMIENTAS | HABILIDADES |
+| --- | --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | *PROGRAMACION: BACKEND, FRONTEND. *DESARROLLO DE APLICACIONES: WEB, MOVIL, ESCRITORIO. |
 
-
-
-<!--
-| HERRAMIENTAS DE SOFTWARE |
-| --- |
-| [![My Skills](https://skillicons.dev/icons?i=gimp)](https://skillicons.dev) | -->
-<!-- | [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev) | --- | -->
-<!--<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic"></img> |-->
+*Figura 1.2. Conocimientos en el área de desarrollo de software y habilidades como desarrollador*
 
 <br>
 
-# REGISTRO DE ACTIVIDAD
+## ACTIVIDADES 
+* DESARROLLAR SOFTWARE PARA SER USADO COMO EJEMPLO Y SEAN DE APOYO DANDO COMO RESULTADO LA FACILITACIÓN DE LOS PROYECTOS A PROPONERSE
+* HACER TUTORIALES PARA MEJORAR EL APRENDIZAJE EN AREAS RELACIONADAS AL DESARROLLO DE SOFTWARE DANDO COMO RESULTADO LA FACILIDAD EN LA ELABORACIÓN DE DESARROLLO DE SOFTWARE
+* EXPONER PROYECTOS DE SOFTWARE DESARROLLADOS DURANTE EL TRANSCURSO DEL ESTUDIO UNIVERSITARIO INGENIERÍA INFORMÁTICA PARA FACILITAR EL APRENDIZAJE A TERCEROS DESARROLLADORES
+
+*Figura 1.4. Actividades que se estarán realizando durante la creación de proyectos*
+
+<br>
+
+## REGISTRO DE ACTIVIDAD
 
 | disminuido | extendido | circular |
 | --- | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact&theme=transparent)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10&theme=transparent)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie&theme=transparent)](https://github.com/stats-organization/github-stats-extended) |
-<!--
-[![KevinUrielRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR)](https://github.com/KevinUrielRR/github-readme-stats)
--->
 
-
-<!--
-![KevinUrielRR GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR&show_icons=true)
--->
-
-<!--
-![KevinUrielRR GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinUrielRR&show_icons=true&theme=dark)
--->
-
-
-<!--# PROYECTOS DESTACADOS
- | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=type-trident)](https://github.com/KevinUrielRR/type-trident) |
-
-| --- |-->
+*Figura 1.5. Lenguajes de programación en total y su porcentaje*
 
 
 # PROYECTOS
@@ -79,62 +64,9 @@ KEVIN URIEL
 
 
 
-
 <!--
 
-| --- | --- |
-
-
-
-
-
-
-
-
-
-# PROYECTOS
-
-## RECIENTEMENTE
-| SUBIDO | ACTUALIZADO |
-| --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoProgramacionOrientadoObjetosEnCpp&2FProyectoProgramacionOrientadoObjetosEnCpp&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoProgramacionOrientadoObjetosEnCpp) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) | 
-
-
-## 
-
-| FINALIZADOS | CONSTANTE ACTUALIZACION |
-| --- | --- |
-|  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
-
-
-
-
-# PROYECTOS
-## RECIENTEMENTE
-| SUBIDO RECIENTEMENTE | DESTACADO |
-| --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoProgramacionOrientadoObjetosEnCpp&2FProyectoProgramacionOrientadoObjetosEnCpp&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoProgramacionOrientadoObjetosEnCpp) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno) |
-
-| FINALIZADOS | RECIENTEMENTE ACTUALIZADOS |
-| --- | --- |
-| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&2FProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=KevinUrielRR&repo=ProyectoEstacionMeteorologicaConArduinoUno&2FProyectoEstacionMeteorologicaConArduinoUno&show_owner=true&description_lines_count=3)](https://github.com/KevinUrielRR/ProyectoEstacionMeteorologicaConArduinoUno)  |
--->
-
-
-<!-- 
-| [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KevinUrielRR&repo=ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar%2Fgithub-readme-stats&show_owner=true&description_lines_count=3&theme=light_github_repocard)](https://github.com/KevinUrielRR/ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar) |
-| --- |-->
-
-<!--
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinUrielRR&repo=ContadorSimple)](https://github.com/KevinUrielRR/ContadorSimple) |-->
-
-<!--ProyectoLaravelPartidasPresupuestalesTablaSistemaEscolar)
--->
-
-
-<!--
-hihiss://skillicons.dyothisoururyoururyoururrofile
-ponprofileee-elRRlRR-**KevinUrielRR/KevinUrielRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 on ne are some ideas to get you startedcurrently’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to col
