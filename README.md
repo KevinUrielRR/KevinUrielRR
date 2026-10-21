@@ -3,10 +3,11 @@ KEVIN URIEL
 
 | PERFIL DE KevinUrielRR DONDE SE ALMACENARÁN PROYECTOS DE SOFTWARE |
 | --- |
-| DESARROLLADOR BACKEND Y FRONTEND DE SOFTWARE: WEB, MOVILES, ESCRITORIO, HIBRIDAS |
+
+<!--| DESARROLLADOR BACKEND Y FRONTEND DE SOFTWARE: WEB, MOVILES, ESCRITORIO, HIBRIDAS |
 | TUTORIALES PARA EL APRENDIZAJE Y AYUDA AL DESARROLLO DE SOFTWARE|
 
-*Figura 1.1. Tabla de descripción y propósitos*
+*Figura 1.1. Tabla de descripción y propósitos*-->
 
 <br>
 
@@ -22,9 +23,9 @@ KEVIN URIEL
 
 
 ## DESARROLLO DE SOFTWARE TECNOLOGIAS
-| PROGRAMACION | FRAMEWORKS | HERRAMIENTAS | HABILIDADES |
-| --- | --- | --- | --- |
-| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | *PROGRAMACION: BACKEND, FRONTEND. *DESARROLLO DE APLICACIONES: WEB, MOVIL, ESCRITORIO. |
+| PROGRAMACION | FRAMEWORKS | HERRAMIENTAS |
+| --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | 
 
 *Figura 1.2. Conocimientos en el área de desarrollo de software y habilidades como desarrollador*
 
