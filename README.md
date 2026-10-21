@@ -1,13 +1,8 @@
 KEVIN URIEL
 # 👤DESCRIPCIÓN👤
 
-| PERFIL DE KevinUrielRR DONDE SE ALMACENARÁN PROYECTOS DE SOFTWARE |
+| Perfil de KevinUrielRR donde se almacenarán proyectos de software |
 | --- |
-
-<!--| DESARROLLADOR BACKEND Y FRONTEND DE SOFTWARE: WEB, MOVILES, ESCRITORIO, HIBRIDAS |
-| TUTORIALES PARA EL APRENDIZAJE Y AYUDA AL DESARROLLO DE SOFTWARE|
-
-*Figura 1.1. Tabla de descripción y propósitos*-->
 
 <br>
 
@@ -27,17 +22,6 @@ KEVIN URIEL
 | --- | --- | --- |
 | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | 
 
-*Figura 1.2. Conocimientos en el área de desarrollo de software y habilidades como desarrollador*
-
-<br>
-
-## ACTIVIDADES 
-* DESARROLLAR SOFTWARE PARA SER USADO COMO EJEMPLO Y SEAN DE APOYO DANDO COMO RESULTADO LA FACILITACIÓN DE LOS PROYECTOS A PROPONERSE
-* HACER TUTORIALES PARA MEJORAR EL APRENDIZAJE EN AREAS RELACIONADAS AL DESARROLLO DE SOFTWARE DANDO COMO RESULTADO LA FACILIDAD EN LA ELABORACIÓN DE DESARROLLO DE SOFTWARE
-* EXPONER PROYECTOS DE SOFTWARE DESARROLLADOS DURANTE EL TRANSCURSO DEL ESTUDIO UNIVERSITARIO INGENIERÍA INFORMÁTICA PARA FACILITAR EL APRENDIZAJE A TERCEROS DESARROLLADORES
-
-*Figura 1.4. Actividades que se estarán realizando durante la creación de proyectos*
-
 <br>
 
 ## REGISTRO DE ACTIVIDAD
@@ -45,9 +29,6 @@ KEVIN URIEL
 | disminuido | extendido | circular |
 | --- | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&layout=compact&theme=transparent)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrielRR&langs_count=10&theme=transparent)](https://github.com/KevinUrielRR/github-readme-stats) | [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=KevinUrielRR&layout=pie&theme=transparent)](https://github.com/stats-organization/github-stats-extended) |
-
-*Figura 1.5. Lenguajes de programación en total y su porcentaje*
-
 
 # PROYECTOS
 
